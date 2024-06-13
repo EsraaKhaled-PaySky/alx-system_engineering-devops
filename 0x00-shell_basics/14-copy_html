@@ -1,2 +1,2 @@
-14-copy_html
+#!/bin/bash
 cp -u *.html ..
