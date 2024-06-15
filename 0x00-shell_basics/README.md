@@ -30,4 +30,3 @@ All of the following files are scripts, except `holberton.mgc`:
 | `16-clean_emacs` | Deletes all files in the current working directory that end with the character `~` |
 | `17-tree` | Creates the directories `welcome/`, `welcome/to/` and `welcome/to/holberton` in the current directory |
 | `18-commas` | Lists all the files and directories of the current directory, separated by commas (`,`) |
-| `holberton.mgc` | Magic file that can be used with the command `file` to detect `Holberton` data files. `Holberton` data files always contain the string `HOLBERTON` at offset 0 |
