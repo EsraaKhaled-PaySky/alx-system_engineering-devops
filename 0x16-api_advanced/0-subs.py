@@ -7,6 +7,9 @@ If an invalid subreddit is given, the function should return 0
 
 import requests
 
+import requests
+
+
 def number_of_subscribers(subreddit):
     """Return the number of subscribers for a given subreddit.
 
@@ -23,3 +26,4 @@ def number_of_subscribers(subreddit):
         return 0
     except requests.RequestException:
         return 0
+
